@@ -1,0 +1,14 @@
+.bg-login-image{
+	background:url(../img/pic.jpg);
+	background-position:center;
+	background-size:cover;
+}
+.bg-register-image{
+	background:url(../img/pic.jpg);
+	background-position:center;
+	background-size:cover;
+}
+.small, small {
+	font-size: 90%;
+	font-weight: 400;
+}
